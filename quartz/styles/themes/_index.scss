@@ -1612,7 +1612,7 @@ body {
     text-decoration-style: solid;
     transition: all;
     transform: none;
-    user-select: none;
+    user-select: text;
     animation-name: none;
     animation-duration: 0s;
     animation-timing-function: ease;
@@ -1819,7 +1819,7 @@ body {
     text-decoration-line: underline;
     text-decoration-style: solid;
     transform: none;
-    user-select: none;
+    user-select: text;
     animation-name: none;
     animation-duration: auto;
     animation-timing-function: ease;
@@ -1858,7 +1858,7 @@ body {
     text-decoration-line: line-through;
     text-decoration-style: solid;
     transform: none;
-    user-select: none;
+    user-select: text;
     animation-name: none;
     animation-duration: auto;
     animation-timing-function: ease;
@@ -7671,7 +7671,7 @@ html[saved-theme="dark"] {
       text-decoration-style: solid;
       transition: all;
       transform: none;
-      user-select: none;
+      user-select: text;
       animation-name: none;
       animation-duration: 0s;
       animation-timing-function: ease;
@@ -7878,7 +7878,7 @@ html[saved-theme="dark"] {
       text-decoration-line: underline;
       text-decoration-style: solid;
       transform: none;
-      user-select: none;
+      user-select: text;
       animation-name: none;
       animation-duration: auto;
       animation-timing-function: ease;
@@ -7917,7 +7917,7 @@ html[saved-theme="dark"] {
       text-decoration-line: line-through;
       text-decoration-style: solid;
       transform: none;
-      user-select: none;
+      user-select: text;
       animation-name: none;
       animation-duration: auto;
       animation-timing-function: ease;
